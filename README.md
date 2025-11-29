@@ -1,4 +1,4 @@
-<div align="center"><a href="https://sibun-portfolio.netlify.app/" target="_blank"><img src="https://github.com/Sibunnayak/Sibunnayak/blob/main/20230815_004701_0000.png" target="_blank"> </a></div>
+<div align="center"><a href="https://sibundev.com/" target="_blank"><img src="https://github.com/sibunnayak/sibunnayak/blob/main/20230815_004701_0000.png" target="_blank"> </a></div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
@@ -11,13 +11,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Blockchain Technology** (https://github.com/Sibunnayak/ArtHome)
+ 🔭 I’m currently working on **Blockchain Technology** (https://github.com/sibunnayak/ArtHome)
  
  🌱 I’m currently learning **Spring Boot, Tailwind, Node.js, DevSecOps & Cloud Devops**
 
  💬 Ask me about **DevOps ... or anything**
 
- 👨‍💻 All of my projects are available at [https://github.com/Sibunnayak](https://github.com/Sibunnayak)
+ 👨‍💻 All of my projects are available at [https://github.com/sibunnayak](https://github.com/sibunnayak)
 
 🤝 Looking to collaborate on **Web Apps**
  
@@ -50,7 +50,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sibunnayak/Sibunnayak/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sibunnayak/sibunnayak/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -60,10 +60,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=Sibunnayak&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sibunnayak&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=sibunnayak&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-sigma-five.vercel.app/api?username=sibunnayak&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sibunnayak&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sibunnayak&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
